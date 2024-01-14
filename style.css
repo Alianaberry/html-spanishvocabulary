@@ -1,0 +1,30 @@
+*{background-color: black;}
+
+h1{background-color: rgb(187, 127, 255); color: black; border: 1px solid white}
+.color-background{background-color: burlywood; color: black; border: 1px solid white
+  }
+
+#red{color: red;}
+#blue{color: blue;}
+#orange{color: orange;}
+#green{color: green;}
+#yellow{color: yellow;}
+.color-title{font-weight: normal}
+img{height: 200px; width: 200px; border: 2px solid white}
+
+h1{font-family: "Lemon", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center
+  }
+
+audio{border: 1px solid white;}
+#red_audio{background-color:red;}
+#blue_audio{background-color:rgb(77, 161, 230);}
+#orange_audio{background-color:orange;}
+#green_audio{background-color:green;}
+#yellow_audio{background-color:yellow;}
+
+
+
+  
