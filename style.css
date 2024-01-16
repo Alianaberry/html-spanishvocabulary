@@ -1,8 +1,15 @@
 *{background-color: black;}
 
-h1{background-color: rgb(187, 127, 255); color: black; border: 1px solid white}
-.color-background{background-color: burlywood; color: black; border: 1px solid white
+h1{background-color: rgb(28, 119, 195); color: black; border: 1px solid white}
+  .color-background{background-color: rgb(28, 119, 195); color: black; border: 1px solid white; font-family: "Lemon", serif;
+  font-weight: 400; font-style: normal; text-align: center
   }
+
+h1{font-family: "Lemon", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center
+}
 
 #red{color: red;}
 #blue{color: blue;}
@@ -12,11 +19,7 @@ h1{background-color: rgb(187, 127, 255); color: black; border: 1px solid white}
 .color-title{font-weight: normal}
 img{height: 200px; width: 200px; border: 2px solid white}
 
-h1{font-family: "Lemon", serif;
-    font-weight: 400;
-    font-style: normal;
-    text-align: center
-  }
+
 
 audio{border: 1px solid white;}
 #red_audio{background-color:red;}
